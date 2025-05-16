@@ -5,7 +5,7 @@ This subproject documents the complete upgrade of my home network from a basic I
 ## 📄 Documentation
 
 - [`Homelab_Setup_Documentation_v1.pdf`](./Homelab_Setup_Documentation_v1.pdf): Full write-up covering motivation, setup, challenges, configuration, and future plans.
-- [`topology/Flow.drawio.png`](./topology/Flow.drawio.png): Visual network topology diagram showing final layout.
+- [`topology/network_topology.png`](./topology/Flow.drawio.png): Visual network topology diagram showing final layout.
 
 ## 🧠 Summary
 
