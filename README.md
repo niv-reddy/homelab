@@ -5,5 +5,6 @@ This repository documents my personal homelab build, starting with a full home n
 ## 📁 Contents
 
 - [`home-network-upgrade/`](./home-network-upgrade/) – Full home network upgrade: wired mesh setup, Ethernet crimping, switch install, and structured documentation  
+- [`machine-setup/`](./machine-setup/) – Local machine provisioning: base OS install, software configuration, secure defaults, dev tools, and automation  
 - `ad-lab/` – *Coming soon*: Windows Server, Active Directory, user/group management  
-- `dns-filtering/` – *Coming soon*: Pi-hole DNS-level ad-blocking setup  
+- `dns-filtering/` – *Coming soon*: Pi-hole DNS-level ad-blocking setup
