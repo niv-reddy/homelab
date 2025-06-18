@@ -17,8 +17,7 @@ This subproject documents the process of setting up my main Ubuntu homelab machi
 🔐 Remote Access
 - SSH key-based login from Mac laptop
 - Public IP access via Eero’s pXXXXXXX.eero.online domain
-- Confirmed working access over mobile hotspot (work Wi-Fi restrictions present)
-- Tailscale VPN was tested but removed for simplification
+- Confirmed working access over mobile hotspot and other networks
 
 🧩 Next Steps
 - Begin installing core homelab services (Docker, file server, monitoring stack, etc.)
