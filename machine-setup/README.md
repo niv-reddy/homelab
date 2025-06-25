@@ -16,7 +16,7 @@ This subproject documents the process of setting up my main Ubuntu homelab machi
 
 🔐 Remote Access
 - SSH key-based login from Mac laptop
-- Public IP access via Eero’s pXXXXXXX.eero.online domain
+- Remote access via custom Eero domain
 - Confirmed working access over mobile hotspot and other networks
 
 🧩 Next Steps
