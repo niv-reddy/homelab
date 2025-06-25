@@ -13,3 +13,4 @@ This subproject documents the upgrade of my home network from a basic ISP gatewa
 - Main **Eero Pro 6** routes entire network
 - **Three wired Eero 6+ nodes** using pre-run Ethernet lines
 - Clean cable management and organized patch panel
+- Added **MoCA adapter** to leverage coaxial cable for wired Ethernet in bedroom
