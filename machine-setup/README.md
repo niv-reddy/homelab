@@ -9,7 +9,7 @@ This subproject documents the process of setting up my main Ubuntu homelab machi
 - Dual-boot configuration: Ubuntu installed alongside Windows
 - Created bootable USB with balenaEtcher
 - Minimal Ubuntu install with third-party media & driver support
-- Custom hostname: niv-homelab and user: nreddy
+- Custom hostname and username
 - SSH setup with key-based authentication and custom port (2222)
 - Eero port forwarding configured for secure remote access
 - Hardened sshd_config: disabled password login, enforced key auth, allowed only specific user
