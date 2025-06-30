@@ -13,7 +13,7 @@ This subproject documents the deployment of a Pi-hole DNS filtering system in a 
 ## 📁 Documentation
 
 - **[Pi-hole Setup Documentation (PDF)](./Pihole_Setup_Documentation.pdf)** – Full step-by-step process including hardware configuration, OS flashing, Pi-hole install, and Eero integration
-- **Network Diagram** – Visual representation of DNS flow and device topology
+- **[`Network Diagram (PNG)`](./assets/network_topology_diagram)** – Visual representation of DNS flow and device topology
 - **Filtering Behavior** – Explanation of blocklists, DNS resolution, and common blocked domains (e.g. `iadsdk.apple.com`, trackers)
 
 ## 🛠️ Next Steps
