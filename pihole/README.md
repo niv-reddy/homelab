@@ -20,4 +20,3 @@ This subproject documents the deployment of a Pi-hole DNS filtering system in a 
 
 - Enable DNS over HTTPS (DoH) or DNS over TLS (DoT)
 - Expand filtering policies per-device using DHCP + tagging (future)
-- Compare Pi-hole to pfBlockerNG or enterprise DNS solutions
