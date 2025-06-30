@@ -5,7 +5,7 @@ This subproject documents the upgrade of my home network from a basic ISP gatewa
 ## 📄 Included
 
 - **[`Homelab Setup Documentation (PDF)`](./Homelab_Setup_Documentation.pdf)** – Full write-up covering motivation, layout, configuration, challenges, and future plans.
-- **[`Network Topology.png`](./topology/network_topology.png)** – Visual diagram of the final wired mesh setup.
+- **[`Network Topology (PNG)`](./topology/network_topology.png)** – Visual diagram of the final wired mesh setup.
 
 ## 💡 Key Notes
 
