@@ -3,7 +3,7 @@
 This subproject documents the process of setting up my main Ubuntu homelab machine using a dual-boot configuration with Windows and secure remote SSH access
 
 📄 Included
-- **[`Homelab Setup Documentation (PDF)`](./HomeLab-Setup.pdf)**  – Full walkthrough covering installation, user setup, SSH configuration, remote access via Eero, and hardening tips.
+- **[`Machine Setup Documentation (PDF)`](./HomeLab-Setup.pdf)**  – Full walkthrough covering installation, user setup, SSH configuration, remote access via Eero, and hardening tips.
 
 🛠️ Highlights
 - Dual-boot configuration: Ubuntu installed alongside Windows
