@@ -1,12 +1,12 @@
-# 🧰 Homelab Setup
+# Homelab Setup
 
 This repository documents my personal homelab build, starting with a full home network infrastructure upgrade. Each subfolder contains detailed setup documentation for a specific component of the lab.
 
-> ⚠️ Earlier setups like the dual-boot system are archived for reference but have since been replaced by a Proxmox-based virtualization environment for scalability and centralized management.
+>  Earlier setups like the dual-boot system are archived for reference but have since been replaced by a Proxmox-based virtualization environment for scalability and centralized management.
 
 ---
 
-## 📁 Contents
+## Contents
 
 - [`home-network-upgrade/`](./home-network-upgrade/) – Full home network upgrade: wired mesh setup, Ethernet crimping, switch install, and structured documentation  
 - [`machine-setup/`](./machine-setup/) – Dual-boot setup (Ubuntu + Windows), SSH key-based remote access, port forwarding, and basic security hardening
