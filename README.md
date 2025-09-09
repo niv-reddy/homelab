@@ -8,9 +8,12 @@ This repository documents my personal homelab build, starting with a full home n
 
 ## Contents
 
-- **[`home-network-upgrade/`](./home-network-upgrade/):** Full home network upgrade – wired mesh setup, Ethernet crimping, switch install, and structured documentation  
-- **[`machine-setup/`](./machine-setup/):** Dual-boot system (Ubuntu + Windows), SSH key-based remote access, port forwarding, and security hardening  
-- **[`dns-filtering/`](./pihole/):** Pi-hole DNS-level ad-blocking – Raspberry Pi deployment, Eero integration, SSH access, dashboard monitoring, and list management  
-- **virtualization-lab:** *Coming Soon* – Proxmox hypervisor deployment, VM management, snapshots, and containerized services  
-- **ad-lab:** *Coming Soon* – Windows Server, Active Directory, DNS, user/group management, and GPO testing  
-- **network-segmentation:** *Coming Soon* – VLANs, pfSense firewall, inter-VLAN routing, and simulated zones for testing security boundaries  
+| Folder | Description |
+|--------|-------------|
+| [`home-network-upgrade/`](./home-network-upgrade/) | Full home network upgrade – mesh setup, crimping, switch, structured docs |
+| [`machine-setup/`](./machine-setup/) | Dual-boot (Ubuntu + Windows), SSH keys, port forwarding, hardening |
+| [`dns-filtering/`](./pihole/) | Pi-hole ad-blocking – Raspberry Pi, Eero, SSH, dashboard, list mgmt |
+| virtualization-lab | *Coming Soon*: Proxmox hypervisor, VMs, snapshots, containers |
+| ad-lab | *Coming Soon*: Windows Server, AD, DNS, groups, GPO testing |
+| network-segmentation | *Coming Soon*: VLANs, pfSense, inter-VLAN routing, zones |
+
