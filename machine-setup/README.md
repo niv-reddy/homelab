@@ -1,4 +1,4 @@
-Ubuntu Homelab Machine Setup
+Ubuntu Homelab Machine Setup (DEACTIVE)
 
 This subproject documents the process of setting up my main Ubuntu homelab machine using a dual-boot configuration with Windows and secure remote SSH access
 
