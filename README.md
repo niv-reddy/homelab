@@ -9,7 +9,7 @@ This repository documents my personal homelab build, starting with a full home n
 | Folder | Description |
 |--------|-------------|
 | [`Home Network/`](./home-network-upgrade/) | Full home network upgrade – mesh setup, crimping, switch, structured documentation |
-| [`DNS Filtering/`](./DNS/) | Pi-hole ad-blocking – Raspberry Pi, Eero, SSH, dashboard, list mgmt |
+| [`DNS/`](./DNS/) | Centralized DNS control plane using AdGuard Home – role-based policy enforcement, telemetry suppression, and Zero Trust device segmentation |
 | ad-lab | *Coming Soon*: Windows Server (Proxmox VM), AD, DNS, groups, GPO testing |
 | network-segmentation | *Coming Soon*: VLANs, pfSense, inter-VLAN routing, zones |
 
