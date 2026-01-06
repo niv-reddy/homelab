@@ -23,4 +23,4 @@ This layer provides:
 - Centralized logging and visibility  
 
 Pi-hole represents the original DNS filtering deployment.  
-AdGuard Home is the current and actively maintained DNS policy enforcement platform.
+AdGuard is the current and actively maintained DNS policy enforcement platform.
