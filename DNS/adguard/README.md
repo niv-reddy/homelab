@@ -27,6 +27,7 @@ Full architecture and configuration documentation is maintained separately and s
 - Operational behavior and monitoring  
 
 Refer to the documentation files in this directory for full implementation details.
+- **[`AdGuard Documentation (PDF)`](./AdGuard_Documentation.pdf)** – Full step-by-step process including hardware configuration, OS flashing, Pi-hole install, and Eero integration
 
 ---
 
