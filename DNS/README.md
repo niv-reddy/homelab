@@ -8,7 +8,7 @@ DNS is treated as a control plane for outbound traffic rather than a simple name
 
 | Folder | Description |
 |--------|-------------|
-| [`pihole/`](./homelab/DNS/pihole/) | Legacy Pi-hole DNS filtering deployment (deprecated) |
+| [`pihole/`](./pihole/) | Legacy Pi-hole DNS filtering deployment (deprecated) |
 | [`adguard/`](./DNS/adguard/) | Active Zero Trust DNS policy enforcement layer using AdGuard Home |
 
 
