@@ -1,8 +1,8 @@
-# AdGuard Home DNS Control Plane
+# AdGuard  DNS Control Plane
 
-This folder contains the active DNS enforcement platform for the homelab network, implemented using AdGuard Home.
+This folder contains the active DNS enforcement platform for the homelab network, implemented using AdGuard.
 
-AdGuard Home functions as the centralized DNS control plane for all internal devices. It enforces role-based DNS policy, telemetry suppression, and conditional filtering across a mixed-trust environment.
+AdGuard functions as the centralized DNS control plane for all internal devices. It enforces role-based DNS policy, telemetry suppression, and conditional filtering across a mixed-trust environment.
 
 This deployment replaces the legacy Pi-hole based DNS filtering platform.
 
@@ -10,7 +10,7 @@ This deployment replaces the legacy Pi-hole based DNS filtering platform.
 
 ## Environment
 
-- Deployed as a virtual machine within Proxmox  
+- Deployed as a Linux container (LXC) within Proxmox  
 - Authoritative DNS resolver for all LAN devices  
 - Uses privacy-focused upstream DNS providers  
 - Centralized DNS logging and monitoring via web dashboard  
