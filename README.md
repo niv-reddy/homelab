@@ -8,8 +8,8 @@ This repository documents my personal homelab build, starting with a full home n
 
 | Folder | Description |
 |--------|-------------|
-| [`Home Network/`](./home-network-upgrade/) | Full home network upgrade:<br>- mesh setup<br>- crimping<br>- switch<br>- structured documentation |
-| [`DNS/`](./DNS/) | Centralized DNS control plane using AdGuard Home:<br>- role-based policy enforcement<br>- telemetry suppression<br>- Zero Trust device segmentation |
+| [`Home Network/`](./home-network-upgrade/) | Full Home Network Upgrade:<br>- Mesh setup<br>- Crimping<br>- Switch<br>- Structured documentation |
+| [`DNS/`](./DNS/) | Centralized DNS Control Plane using AdGuard:<br>- Role-based policy enforcement<br>- Telemetry suppression<br>- Zero Trust device segmentation |
 | ad-lab | *Coming Soon*: Windows Server (Proxmox VM), AD, DNS, groups, GPO testing |
 | network-segmentation | *Coming Soon*: VLANs, pfSense, inter-VLAN routing, zones |
 
