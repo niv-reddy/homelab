@@ -6,12 +6,11 @@ DNS is treated as a control plane for outbound traffic rather than a simple name
 
 ## Directory Structure
 
-```
-dns/
-├── pihole/     # Legacy DNS filtering deployment (deprecated)
-├── adguard/    # Active DNS enforcement and Zero Trust policy platform
-└── README.md   # This file
-```
+| Folder | Description |
+|--------|-------------|
+| [`dns/pihole/`](./dns/pihole/) | Legacy Pi-hole DNS filtering deployment (deprecated) |
+| [`dns/adguard/`](./dns/adguard/) | Active Zero Trust DNS policy enforcement layer using AdGuard Home |
+
 
 ## Purpose
 
