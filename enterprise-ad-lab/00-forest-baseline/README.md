@@ -16,7 +16,6 @@ This baseline establishes the core authentication, authorization, and directory 
 | DNS | Active Directory Integrated |
 | Kerberos Realm | LAB.NIV.LOCAL |
 | Time Authority | DC01 (PDC Emulator) |
-| Snapshot Baseline | AD-FOREST-GOLD-BASELINE |
 
 ---
 
