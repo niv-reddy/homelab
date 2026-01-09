@@ -39,3 +39,13 @@ This baseline establishes the core authentication, authorization, and directory 
 Core directory health, replication, Kerberos ticketing, DNS resolution, and time authority validation have all been verified.
 
 Detailed step-by-step implementation documentation is maintained separately in formal Word/PDF documentation.
+
+---
+
+## Documentation
+
+The formal design specification and authoritative implementation record for this baseline is maintained in the following document:
+
+- [Identity Root of Trust Baseline Documentation (PDF)](./Identity-Root-of-Trust-Baseline.pdf/)
+
+This document defines the trust boundary architecture, Kerberos realm establishment, DNS authority model, tiered administrative control structure, and security governance baseline for the enterprise identity platform.
