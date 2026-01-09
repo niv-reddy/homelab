@@ -2,18 +2,40 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon files
 Icon?
-
-# Thumbnails
 ._*
-
-# Spotlight files
 .Spotlight-V100
-
-# Trash folder
 .Trashes
-
-# macOS metadata
 .metadata_never_index
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Sensitive data
+.env
+*.env
+secrets/
+credentials/
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Logs and diagnostics
+*.log
+logs/
+*.dump
+*.bak
+
+# Screenshots, exports, and inventory artifacts
+screenshots/
+exports/
+*.csv
+
+# Virtual machine or lab artifacts
+*.vdi
+*.vmdk
+*.qcow2
+*.ova
+*.ovf
