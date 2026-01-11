@@ -7,18 +7,6 @@ It forms the first enforced lateral-movement control surface and becomes the fou
 
 ---
 
-## Segmentation Overview
-
-| Component | Value |
-|---------|------|
-| Segmentation Fabric | Proxmox vmbr1 (VLAN-aware trunk) |
-| Enforcement Layer | Hypervisor Layer-2 VLAN segmentation |
-| Routing Model | None (sealed trust zones) |
-| Lateral Movement | Physically blocked |
-| Isolation Method | VLAN tagging and bridge enforcement |
-
----
-
 ## Trust Zone Model
 
 | Trust Zone | VLAN | CIDR | Purpose |
