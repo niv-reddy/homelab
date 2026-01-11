@@ -45,6 +45,6 @@ Detailed step-by-step implementation documentation is maintained separately in f
 
 The formal design specification and authoritative implementation record for this baseline is maintained in the following document:
 
-- [Identity Root of Trust Baseline Documentation (PDF)](./Identity-Root-of-Trust-Baseline.pdf/)
+- [Identity Root of Trust Documentation (PDF)](./Identity-Root-of-Trust.pdf/)
 
 This document defines the trust boundary architecture, Kerberos realm establishment, DNS authority model, tiered administrative control structure, and security governance baseline for the enterprise identity platform.
