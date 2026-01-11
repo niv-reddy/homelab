@@ -1,4 +1,4 @@
-# Network Segmentation — Trust Zone Fabric
+# Network Segmentation — Trust Zone
 
 This folder documents the internal enterprise network segmentation layer of the lab.niv.local platform.
 
