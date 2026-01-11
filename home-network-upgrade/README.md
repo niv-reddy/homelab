@@ -13,9 +13,8 @@ It represents the physical infrastructure foundation for my personal homelab and
 This section documents the physical implementation process and final deployment state of the network upgrade.
 
 - **[`01-before/`](./photos/01-before)** – Original internet panel condition before cleanup and rewiring  
-- **[`02-crimping/`](./photos/02-crimping)** – Ethernet termination, crimping, and testing process  
-- **[`03-final-layout/`](./photos/03-final-layout)** – Final organized panel layout and wired mesh deployment  
-- **[`04-tools/`](./photos/04-tools)** – Tools and hardware used during the build
+- **[`02-crimping/`](./photos/02-crimping)** – Ethernet crimping
+- **[`03-final-layout/`](./photos/03-final-layout)** – Final organized panel layout
 
 These images provide visual verification of the physical infrastructure work supporting the homelab environment.
 
