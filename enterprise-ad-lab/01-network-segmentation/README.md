@@ -54,6 +54,6 @@ Layer-2 isolation has been verified and is operational.
 
 Formal implementation and validation records are maintained in:
 
-**Network Segmentation Documentation (PDF)**
+- [Network Segmentation Documentation (PDF)](./Network-Segmentation.pdf)
 
 This document defines the segmentation architecture, VLAN fabric design, trust zone classification, isolation validation, and enforcement boundaries for the enterprise lab platform.
