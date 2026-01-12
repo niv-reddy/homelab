@@ -61,7 +61,7 @@ This layer converts segmentation into a functioning **enterprise trust fabric**.
 
 Formal implementation and verification documentation:
 
-**Trust Fabric Activation Documentation (PDF)**
+- [Trust Fabric Activation Documentation (PDF)](./Trust-Fabric-Activation.pdf)
 
 This document defines routed trust architecture, firewall enforcement models, inter-zone authentication flows, and validation evidence for the enterprise trust fabric.
 
