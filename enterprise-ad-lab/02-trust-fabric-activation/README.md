@@ -16,8 +16,6 @@ This is the layer where the forest baseline becomes *operational infrastructure*
 | DC01 | Server Trust Zone | 10 | Primary domain controller, DNS, Kerberos authority |
 | FS01 | Server Trust Zone | 10 | Enterprise file server and workload platform |
 | WIN10-01 | Workstation Trust Zone | 20 | User endpoint and policy enforcement target |
-| WAZUH01 | Security/Admin Trust Zone | 30 | Central logging and detection node |
-| KALI01 | Security/Admin Trust Zone | 30 | Controlled adversary simulation platform |
 | pfSense FW | Routing Core | Backbone | Inter-zone trust enforcement point |
 
 ---
@@ -41,7 +39,7 @@ This layer converts segmentation into a functioning **enterprise trust fabric**.
 |-----------|-----------|
 | Workstation Zone (VLAN20) | Authenticate to Domain Controllers only |
 | Server Zone (VLAN10) | Provide identity, file, and infrastructure services |
-| Security/Admin Zone (VLAN30) | Observe, manage, and simulate activity |
+| Security/Admin Zone (VLAN30) | Observe, manage, and simulate activity (Not completed at this stage) |
 | All Zones | Must pass through routed firewall enforcement |
 
 ---
