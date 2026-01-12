@@ -1,6 +1,6 @@
-# Enterprise Active Directory Lab
+# Enterprise Network Identity Security Platform
 
-This directory contains the full Active Directory–based identity and security lab platform.  
+This directory contains the full Active Directory–centered network identity security platform used to design, enforce, monitor, and validate enterprise trust boundaries.  
 
 ---
 
