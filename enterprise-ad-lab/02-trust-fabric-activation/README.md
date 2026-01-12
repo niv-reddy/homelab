@@ -9,7 +9,7 @@ This is the layer where the forest baseline becomes *operational infrastructure*
 
 ---
 
-## Activated Systems
+## Current Activated Systems
 
 | System | Zone | VLAN | Purpose |
 |-------|----|----|--------|
@@ -59,7 +59,7 @@ This layer converts segmentation into a functioning **enterprise trust fabric**.
 
 ## Documentation
 
-Formal implementation and verification documentation is maintained in:
+Formal implementation and verification documentation:
 
 **Trust Fabric Activation Documentation (PDF)**
 
