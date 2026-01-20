@@ -29,9 +29,11 @@ This is the layer where the identity fabric becomes **defensible infrastructure*
 | T0 Logon Restrictions | DCs & PAW | Tier-0 credential confinement |
 | T1 Logon Restrictions | Servers | Server admin tier isolation |
 | T2 Logon Restrictions | Workstations | Endpoint tier isolation |
+| T1T2 Mgmt Path Restriction | Servers & Workstations | Endpoint firewall posture and admin path alignment |
 | T1 Server Local Admin | Servers | Tier-aligned local admin governance |
 | T2 Local Admin Control | Workstations | Workstation admin governance |
 | SEC Attack Surface Reduction | Endpoints | Post-compromise behavior reduction |
+
 
 ---
 
